@@ -3,8 +3,7 @@ An integrated multimodal protocol for radical longevity by Simon Soliman (TET Co
 
 # Radical Longevity Protocol
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
-*(Sostituisci con il DOI reale dopo la prima release su Zenodo)*
+[![DOI] https://doi.org/10.5281/zenodo.18126865
 
 An integrated multimodal protocol for radical longevity by **Simon Soliman** (TET Collective).
 
