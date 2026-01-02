@@ -58,8 +58,7 @@ Simon Soliman. (2025). An Integrated Protocol for Radical Longevity: Biological 
 
 # Protocollo di Longevità Radicale
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  
-*(Sostituisci con il DOI reale dopo Zenodo)*
+[![DOI] https://doi.org/10.5281/zenodo.18127311
 
 Protocollo integrato per longevità radicale di **Simon Soliman** (TET Collective).  
 Dalla versione multimodale biologica (v1.1) al modello di **gravità emergente embodied** (v2.4).
